@@ -239,7 +239,6 @@
                     android:id="@+id/resetPasswordButton"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="@android:color/holo_green_light"
                     android:text="Reset Password" />
 
                 <Button
@@ -247,7 +246,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="27dp"
-                    android:background="@android:color/holo_green_light"
                     android:text="Promosi" />
             </LinearLayout>
         </LinearLayout>

@@ -11,6 +11,7 @@ data class Nasabah (
     var saldo: Double? = 0.0 ,
     var aktif: Boolean = FALSE
 ) {
+
     fun resetPassword() {
         password = "12345678"
     }
